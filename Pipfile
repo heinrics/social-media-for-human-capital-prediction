@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+language-tool-python = "*"
+dask = {extras = ["complete"],version = "*"}
+jupyter = "*"
+emoji = "*"
+openpyxl = "*"
+uliplot = "*"
+plotly = "*"
+statsmodels = "*"
+rtree = "*"
+descartes = "*"
+pyreadstat = "*"
+geopandas = "*"
+scikit-learn = "*"
+tweetnlp = "*"
+networkx = {extras = ["default"],version = "*"}
+transformers = "*"
+sacremoses = "*"
+stata-setup = "*"
+tensorflow = "==2.12.*"
+numpy = "*"
+matplotlib = "*"
+lightgbm = "*"
+tensorflow-probability = "*"
+seaborn = "*"
+shap = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.*"
