@@ -1,4 +1,10 @@
-Replication Package
+Replication Package for "Measuring Human Capital with Social Media Data and Machine Learning"
+
+https://ideas.repec.org/p/bss/wpaper/46.html
+
+In response to persistent gaps in the availability of survey data, a new strand of research leverages alternative data sources through machine learning to track global development. While previous applications have been successful at predicting outcomes such as wealth, poverty or population density, we show that educational outcomes can be accurately estimated using geo-coded Twitter data and machine learning. Based on various input features, including user and tweet characteristics, topics, spelling mistakes, and network indicators, we can account for ~70 percent of the variation in educational attainment in Mexican municipalities and US counties.
+
+
 
 Steps for Replication
 
